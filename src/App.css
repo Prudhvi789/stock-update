@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+}
+
+body{
+  background : radial-gradient(#ffac81,#ff928b)
+}
+
+form{
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+form > *{
+  margin : 10px
+}
+
+input{
+  padding: 10px;
+  border-radius: 10px 18px;
+  border: transparent;
+}
+
+input:focus{
+  outline: none;
+}
+
+button{
+  padding: 5px;
+  width: 4rem;
+  background: #4bb4a1;
+  border: none;
+  box-shadow: 0 0 4px 1px;
+}
+
+
+
