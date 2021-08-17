@@ -37,5 +37,19 @@ button{
   box-shadow: 0 0 4px 1px;
 }
 
+h1{
+  border: 1px solid white;
+  max-width: 50%;
+  margin: 25px 0 25px 25%;
+  padding: 10px;
+  background: bisque;
+  color: #e14b03;
+}
 
+.result{
+    margin-top: 10px;
+    font-size: larger;
+    font-style: italic;
+    font-weight: 500;
+}
 
